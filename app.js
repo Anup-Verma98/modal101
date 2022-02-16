@@ -26,4 +26,3 @@ closeModal.addEventListener("click",modalCloserUtility);
 document.addEventListener("keydown",function(e){
     if(e.key === "Escape")modalCloserUtility();
 })
-
